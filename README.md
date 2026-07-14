@@ -40,3 +40,13 @@ This project required us to design and manufacture a bracket using FEA. While wo
 - Learnt how to use ANSYS software like DesignModeller to add/remove parts of the imported STEP file.
 - I realised that I could have done more to help my partner, as we went forward with her part. I could have expereimented or taken responsibilty for the G-code generation. However, what I did was begin the report and try to catch up with the FEA modelling.
 - I also realised how important a proper computer was for doing FEA modellling. My computer kept crashing or yielded bad results, which ultimately led me to contributing less. So I had to make sure that I used a stronger computer for any kind of modelling in the future.
+
+<!-- <p align="center">
+  <img src="" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 1: </i>
+</p> --!>
+
+
