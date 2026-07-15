@@ -13,6 +13,7 @@ This project required us to design and manufacture a bracket using FEA. While wo
 - ANSYS FEA
 - Mesh convergence
 - Validation of results from real experimental values from a 2016 model
+- Buckling caclculations
 
 ## Methodology
 - Each of us decided come up with multiple concepts, and test them in ANSYS with simple boundary conditions. Whichever concept yielded the best result would be selected to push forward for the team discussion. The closest concept to the specification was pushed forward for the design used for the FEA setup.
@@ -22,6 +23,7 @@ This project required us to design and manufacture a bracket using FEA. While wo
 - A mesh convergence study of Von Mises stress was done to check if our results were reaching a certain value.
 - After all FEA analysis was done, and our final component design was selected, a G-Code was made using Inventor.
 - It was sent for manufacturing and tested at the Newmarket campus of UOA.
+- Simple buckling calculations were done for the report for checking if the bracket would undergo buckling.
 
 ## Results 
 - Our component managed to pass both the compressive and tensile stresses.
