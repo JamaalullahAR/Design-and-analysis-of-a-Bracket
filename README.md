@@ -36,6 +36,147 @@ This project required us to design and manufacture a bracket using FEA. While wo
 
 ## Project images
 
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 1: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 2: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 3: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 4: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 5: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 6: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 7: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 8: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 9: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 10: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 11: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 12: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 13: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 14: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 15: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 16: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 17: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 18: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 19: </i>
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+<p align="center">
+  <i>Figure 20: </i>
+</p>
+
+
 ## What I learnt
 - How to work as a team when it comes to FEA.
 - Getting better at using ANSYS and how different boundary systems affects the output of the model.
