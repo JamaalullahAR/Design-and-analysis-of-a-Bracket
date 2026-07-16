@@ -35,145 +35,168 @@ This project required us to design and manufacture a bracket using FEA. While wo
 - However, the component could be optimised for lesser mass, and get a closer value to the required forces.
 
 ## Project images
-
+The images for the set up are not clear as they are screenshots of screenshots. Each of the set ups will be described in detail under each set up.
+<br><br>
 <p align="center">
-  <img src="" width="800">
+  <img src="images/Gantt.png" width="700">
 </p>
 <p align="center">
-  <i>Figure 1: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 2: </i>
+  <i>Figure 1: Gantt chart for the whole project </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/jamaal_BC1.png" width="800">
 </p>
 <p align="center">
-  <i>Figure 3: </i>
+  <i>Figure 2: Jamaalullah's set up 1 </i>
+</p>
+This set up utilised a remote displacement, with fixed supports on the holes.
+<br>
+
+<p align="center">
+  <img src="images/jamaal_BC2.png" width="800">
+</p>
+<p align="center">
+  <i>Figure 3: Jamaalullah's set up 2 </i>
+</p>
+
+This set up utilised a remote force, with fixed supports on the holes.
+<br>
+
+<p align="center">
+  <img src="images/jamaal_BC3.png" width="800">
+</p>
+<p align="center">
+  <i>Figure 4: Jamaalullah's set up 3 </i>
+</p>
+
+This set up used steel pins in each hole, and 3 of the pins were fixed supports with 1 pin remotely displaced. This set up was the final set up, and the results of this set up for this design was used in the decision for my final design.
+<br><br>
+
+<p align="center">
+  <img src="images/jamaal_Fea_setup.png" width="800">
+</p>
+<p align="center">
+  <i>Figure 5: Jamaalullah's final set up for the other designs </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/jamaal_Bracket2.1.png" width="800">
+  <img src="images/jamaal_Bracket2.2.png" width="800">
 </p>
 <p align="center">
-  <i>Figure 4: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 5: </i>
+  <i>Figure 6: Jamaalullah's final set up in bracket 2</i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/jamaal_Bracket3.png" width="800">
 </p>
 <p align="center">
-  <i>Figure 6: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 7: </i>
+  <i>Figure 7: Jamaalullah's final set up in bracket 3 </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/TOP_R1.png" width="800">
+  <img src="images/TOP_R2.png" width="800">
 </p>
 <p align="center">
-  <i>Figure 8: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 9: </i>
+  <i>Figure 8: The results from the final FEA set up on the 3 different bracket topologies </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/jamaal_convg_study.png" width="600">
 </p>
 <p align="center">
-  <i>Figure 10: </i>
+  <i>Figure 9: Convergence study of Jamaalullah's 3 different bracket topologies </i>
+</p>
+There was not a clear convergence from the convergence study, which made me less confident in my brackets. Looking back, I think that part of the issue was my computer not being strong enough to produce accurate results consistently. 
+<br><br>
+
+<p align="center">
+  <img src="images/Maia_topology_results.png" width="800">
+</p>
+<p align="center">
+  <i>Figure 10: My partner, Maia's, different topologies results</i>
+</p>
+
+Her results were a lot closer to the required results, especially topology 3. After a discussion as a team, we decided that topology 3 would be the bracket used to move forward and fine tune to get as close to the required reaction forces.
+<br><br>
+
+<p align="center">
+  <img src="images/YoungsMod.png" width="800">
+</p>
+<p align="center">
+  <i>Figure 11: Young's Modulus values from 2016 bracket experimental dataset </i>
+</p>
+The Young's Modulus from the experimental 2016 bracket was compared and the final averaged Youngs modulus of 2.14 GPa was calculated. We still had to adjust the Youngs modulus to get the final bracket values closer to the required reaction forces. The final set up used a Young's Modulus of 2.15 GPa instead of the 2.3 GPa Youngs Modulus given in the brief. This section was done more by my partner, but I was there each step of the way to give my thoughts and inputs. 
+<br><br><br>
+
+<p align="center">
+  <img src="images/final_fea1.png" width="800">
+  <img src="images/final_fea2.png" width="800">
+</p>
+<p align="center">
+  <i>Figure 12: Final FEA set up for optimised bracket </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/optimised_values.png" width="800">
 </p>
 <p align="center">
-  <i>Figure 11: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 12: </i>
+  <i>Figure 13: Optimised bracket results from final FEA setup </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/final_bracket_conv_study.png" width="500">
 </p>
 <p align="center">
-  <i>Figure 13: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 14: </i>
+  <i>Figure 14: Final bracket convergence study </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/final_bracket_dwg.png" width="800">
 </p>
 <p align="center">
-  <i>Figure 15: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 16: </i>
+  <i>Figure 15: The final bracket drawing </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/buckling_dwg.png" width="800">
 </p>
 <p align="center">
-  <i>Figure 17: </i>
-</p>
-
-<p align="center">
-  <img src="" width="800">
-</p>
-<p align="center">
-  <i>Figure 18: </i>
+  <i>Figure 16: Potential buckling region </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/buckling_calc1.png" width="200">
+  <img src="images/buckling_calc2.png" width="200">
 </p>
 <p align="center">
-  <i>Figure 19: </i>
+  <i>Figure 17: Simplified buckling calculations </i>
 </p>
 
 <p align="center">
-  <img src="" width="800">
+  <img src="images/manufacturing.jpeg" width="500">
 </p>
 <p align="center">
-  <i>Figure 20: </i>
+  <i>Figure 18: Manufacturing of bracket from the generated G-code</i>
+</p>
+
+The G-code manufacturing was done by my team mate. However, I was also shown how it was done and she explained to me why she chose the bit size and how it could ensure our piece is done accurately and as quick as possible.
+<br><br>
+
+<p align="center">
+  <img src="images/photoelastic_testing.jpeg" width="500">
+</p>
+<p align="center">
+  <i>Figure 19: Testing of the bracket at the Newmarket Campus </i>
+</p>
+
+<p align="center">
+  <img src="images/final_manufactured_bracket.jpeg" width="500">
+</p>
+<p align="center">
+  <i>Figure 20: Final manufactured bracket </i>
 </p>
 
 
